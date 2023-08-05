@@ -1,8 +1,3 @@
-
-### I explained my thought process in the following video:
-https://www.loom.com/share/f2af7563d17c449caff422da96d1e730?sid=680b9556-4ac4-455c-8289-2a76f403da86 
-
-
 ### To add a new driver send a get request to the below endpoint, and add the following parameters :
 #### endpoint: /addDriver 
 #### parameters :
